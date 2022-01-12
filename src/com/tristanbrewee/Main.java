@@ -24,7 +24,7 @@ public class Main {
             "The fact that the name changed in \"studentAsParam\", but not in \"studentMain\" when we called " +
             "\"changeStudent()\", proves that \"studentMain\" and \"studentAsParam\" are not the same reference.\n" +
             "These \"references\" are called \"object handles\" and are passed-by-value. If you're interested, have a " +
-            "quick Google-search on them.";
+            "quick Google-search on them. ";
 
     public static void main(String[] args) {
         System.out.println(TEXT1);
